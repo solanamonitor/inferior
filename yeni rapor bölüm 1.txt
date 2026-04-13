@@ -57,7 +57,7 @@ Inceleme alanina giren bolgelerde kitle lezyon veya patolojik lenf nodu saptanma
 Karsilastirma:
 --
 Sonuc ve Oneri:
-Olguya ait patolojiler 'Bulgular' kisminda belirtilmis olup klinik, ﬁzik muayene ve laboratuvar verileri ile
-birlikte korelasyonu onerilir.
+Bu metindeki degerlendirmeler kesin klinik tani degil, model ciktisi/olasilik tahmini niteligindedir.
+Klinik, fizik muayene ve laboratuvar verileri ile birlikte hekim tarafindan korelasyonu onerilir.
 .....................
 Sonuç ve Öneriler
