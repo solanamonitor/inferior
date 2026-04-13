@@ -1,0 +1,71 @@
+T.C. Sağlık Bakanlığı Teleradyoloji Sistemi
+ISTANBUL ŞİŞLİ HAMİDİYE ETFAL EĞİTİM VE ARAŞTIRMA
+HASTANESİ
+Radyoloji Sonuç Raporu
+Hastanın Adı
+Soyadı
+BERK YILDIRIM
+Protokol
+Numarası
+S286062634
+Cinsiyeti
+Erkek
+Çekim Tarihi
+14/03/2026
+02:35:30
+LOINC Kodu
+37253-2-yumuşak doku, MRG, iv
+kontrastlı
+Erişim Numarası
+S286062634
+Doğum Tarihi
+06/10/1998
+Klinik
+155-HEMATOLOJI
+Teknik
+Karşılaştırma
+Bulgular
+Istanbul Sisli Hamidiye Etfal Egitim ve Arastirma Hastanesi
+Hasta adi:
+BERK YILDIRIM
+Erisim Numarasi:
+S286062634
+Hasta Kimligi:
+24652745072
+Dogum Tarihi:
+06-10-1998
+Cekim Tarihi:
+14-03-2026
+Rapor Tarihi:
+18-03-2026
+Modalite:
+MR
+Cinsiyet:
+Erkek
+Sayin meslektasim hastanizin Kontrastli Boyun MR incelemesinde :
+Teknik:
+Aksiyel planda 5mm kalinliginda FSE T1, FATSAT T2, DWI, ADC haritalari
+Sagittal planda 5mm kalinliginda FSE T2
+Koronal planda 5mm kalinliginda STIR, FSE T1
+Klinik Bilgi:
+I88.8 Lenfadenitler diger, nonspesifik
+Bulgular:
+Orofarenks, nazofarenks, larenks ve izlenebilen tracheal hava sutunlari tabii olarak degerlendirilmistir.
+Rosenmuller fossa, bilateral tonsilla palatinalar normaldir.
+Epiglot, preepiglottik mesafe ve priform sinusler normaldir.
+
+Arytenoid kikirdak lokalizasyonu ve vokal kord yapilari tabiidir.
+Troid bezi boyutlari ve parankim sinyal intensitesi normaldir.
+Bilateral parotid glandlar normaldir.
+Izlenebilen vaskuler yapilar intakttir.
+Boyun cevre yumusak doku planlari tabii olarak degerlendirilmistir.
+Her iki submandibular alanda milimetrik boyutlu lenf nodlari dikkati cekmistir.
+Her iki duzey 2A da sagda 12x10 mm, solda 20x13 mm boyutlu lenf nodlari izlenmistir.
+Her iki servikal zincirde milimetrik boyutlu lenf nodlari mevcuttur.
+Karsilastirma:
+--
+Sonuc ve Oneri:
+Olguya ait patolojiler 'Bulgular' kisminda belirtilmis olup klinik, ﬁzik muayene ve laboratuvar verileri ile
+birlikte korelasyonu onerilir.
+.................
+Sonuç ve Öneriler

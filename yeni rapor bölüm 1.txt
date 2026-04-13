@@ -1,0 +1,63 @@
+T.C. Sağlık Bakanlığı Teleradyoloji Sistemi
+ISTANBUL ŞİŞLİ HAMİDİYE ETFAL EĞİTİM VE ARAŞTIRMA
+HASTANESİ
+Radyoloji Sonuç Raporu
+Hastanın Adı Soyadı
+BERK YILDIRIM
+Protokol Numarası
+S286062614
+Cinsiyeti
+Erkek
+Çekim Tarihi
+14/03/2026 02:35:30
+LOINC Kodu
+35953-9-Yüz, MRG
+Erişim Numarası
+S286062614
+Doğum Tarihi
+06/10/1998
+Klinik
+155-HEMATOLOJI
+Teknik
+Karşılaştırma
+Bulgular
+Istanbul Sisli Hamidiye Etfal Egitim ve Arastirma Hastanesi
+Hasta adi:
+BERK YILDIRIM
+Erisim Numarasi:
+S286062634
+Hasta Kimligi:
+24652745072
+Dogum Tarihi:
+06-10-1998
+Cekim Tarihi:
+14-03-2026
+Rapor Tarihi:
+18-03-2026
+Modalite:
+MR
+Cinsiyet:
+Erkek
+Sayin meslektasim hastanizin Kontrastli Yuz MR incelemesinde :
+Teknik:
+--
+Klinik Bilgi:
+I88.8 Lenfadenitler diger, nonspesifik
+Bulgular:
+Her iki maksiller sinuste mukoperiostal kalinlasma mevcuttur (sinuzit?).
+Solda inferior konkalar hipetrofik gorunumdedir.
+Frontal ve sfenoid sinusler ile etmoid selullerin aerasyonlari normaldir. Mukozal kalinlasma veya koleksiyon izlenmedi.
+Septum naside deviasyon saptanmadi. Cavum nasi aciktir.
+Bilateral yuz bolgesi cilt ciltalti doku dogal izlenmektedir.
+Cene kaslarina ait patoloji saptanmadi.
+
+Goruntu alanina giren kemik yapilar normal sinirlarda degerlendirildi.
+Parafarengial yag planlari aciktir.
+Inceleme alanina giren bolgelerde kitle lezyon veya patolojik lenf nodu saptanmadi.
+Karsilastirma:
+--
+Sonuc ve Oneri:
+Olguya ait patolojiler 'Bulgular' kisminda belirtilmis olup klinik, ﬁzik muayene ve laboratuvar verileri ile
+birlikte korelasyonu onerilir.
+.....................
+Sonuç ve Öneriler
